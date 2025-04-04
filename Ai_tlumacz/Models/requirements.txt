@@ -1,0 +1,9 @@
+tk
+pydub
+numpy
+sounddevice
+librosa
+transformers
+tensorflow
+torch
+
