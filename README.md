@@ -19,3 +19,30 @@ Aby uruchomić projekt, musisz zainstalować wymagane biblioteki.
 
 ```bash
 pip install -r requirements.txt
+Uruchomienie modelu
+Uruchom terminal i przejdź do folderu, w którym znajduje się projekt:
+
+bash
+Kopiuj
+Edytuj
+cd ai_tlumacz/Models
+Uruchom model za pomocą poniższej komendy:
+
+bash
+Kopiuj
+Edytuj
+python main_guy.py
+Struktura projektu
+graphql
+Kopiuj
+Edytuj
+Ai_tlumacz/
+│
+├── Html/             # Interfejs web
+├── input/            # Pliki wejściowe
+├── Models/           # Moduły i skrypty AI
+│   ├── check_dependencies.py
+│   ├── rozpoznanie_zaimnkow.py
+│   └── main_guy.py
+├── output/           # Pliki wyjściowe
+└── tempsf/           # Tymczasowe pliki
