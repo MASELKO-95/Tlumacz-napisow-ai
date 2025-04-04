@@ -105,13 +105,40 @@ Zachęcam do edycji pliku `is_correct_ass.py` i dzielenia się swoimi zmianami w
 def adjust_pronouns(text):
     masc_to_fem = {
         "ja kupiłem": "ja kupiłam", "ja byłem": "ja byłam", "ja zrobiłem": "ja zrobiłam", 
-        "ty kupiłeś": "ty kupiłaś", "ty byłeś": "ty byłaś", "ty zrobiłeś": "ty zrobiłaś", 
-        "on kupił": "ona kupiła", "on był": "ona była", "on zrobił": "ona zrobiła", 
-        "my kupiliśmy": "my kupiłyśmy", "my byliśmy": "my byłyśmy", "my zrobiliśmy": "my zrobiłyśmy"
+        "ja widziałem": "ja widziałam", "ja powiedziałem": "ja powiedziałam", "ja napisałem": "ja napisałam", 
+        "ja poszedłem": "ja poszłam", "ja znalazłem": "ja znalazłam", "ja wziąłem": "ja wzięłam", 
+        "ja czekałem": "ja czekałam", "ja zapytałem": "ja zapytałam", "ja dostałem": "ja dostałam", 
+        "ja wiedziałem": "ja wiedziałam", "ja myślałem": "ja myślałam", "ja czułem": "ja czułam", 
+        "ja słyszałem": "ja słyszałam", "ja rozumiałem": "ja rozumiałam", "ja chciałem": "ja chciałam", 
+        "ja mogłem": "ja mogłam", "ja musiałem": "ja musiałam", "ja spałem": "ja spałam", "ja siedziałem": "ja siedziałam", 
+        "ja stałem": "ja stałam", "ja chodziłem": "ja chodziłam", "ja jechałem": "ja jechałam", "ja pracowałem": "ja pracowałam", 
+        "ja odpoczywałem": "ja odpoczywałam", "ty kupiłeś": "ty kupiłaś", "ty byłeś": "ty byłaś", 
+        "ty zrobiłeś": "ty zrobiłaś", "ty widziałeś": "ty widziałaś", "ty powiedziałeś": "ty powiedziałaś", 
+        "ty napisałeś": "ty napisałaś", "ty poszedłeś": "ty poszłaś", "ty znalazłeś": "ty znalazłaś", 
+        "ty wziąłeś": "ty wzięłaś", "ty czekałeś": "ty czekałaś", "ty zapytałeś": "ty zapytałaś", 
+        "ty dostałeś": "ty dostałaś", "ty wiedziałeś": "ty wiedziałaś", "ty myślałeś": "ty myślałaś", 
+        "ty czułeś": "ty czułaś", "ty słyszałeś": "ty słyszałaś", "ty rozumiałeś": "ty rozumiałaś", 
+        "ty chciałeś": "ty chciałaś", "ty mogłeś": "ty mogłaś", "ty musiałeś": "ty musiałaś", "ty spałeś": "ty spałaś", 
+        "ty siedziałeś": "ty siedziałaś", "ty stałeś": "ty stałaś", "ty chodziłeś": "ty chodziłaś", 
+        "ty jechałeś": "ty jechałaś", "ty pracowałeś": "ty pracowałaś", "ty odpoczywałeś": "ty odpoczywałaś", 
+        "on kupił": "ona kupiła", "on był": "ona była", "on zrobił": "ona zrobiła", "on widział": "ona widziała", 
+        "on powiedział": "ona powiedziała", "on napisał": "ona napisała", "on poszedł": "ona poszła", 
+        "on znalazł": "ona znalazła", "on wziął": "ona wzięła", "on czekał": "ona czekała", "on zapytał": "ona zapytała", 
+        "on dostał": "ona dostała", "on wiedział": "ona wiedziała", "on myślał": "ona myślała", "on czuł": "ona czuła", 
+        "on słyszał": "ona słyszała", "on rozumiał": "ona rozumiała", "on chciał": "ona chciała", "on mógł": "ona mogła", 
+        "on musiał": "ona musiała", "on spał": "ona spała", "on siedział": "ona siedziała", "on stał": "ona stała", 
+        "on chodził": "ona chodziła", "on jechał": "ona jechała", "on pracował": "ona pracowała", 
+        "on odpoczywał": "ona odpoczywała", "my kupiliśmy": "my kupiłyśmy", "my byliśmy": "my byłyśmy", 
+        "my zrobiliśmy": "my zrobiłyśmy", "my widzieliśmy": "my widziałyśmy", "my powiedzieliśmy": "my powiedziałyśmy", 
+        "my napisaliśmy": "my napisałyśmy", "my poszliśmy": "my poszłyśmy", "my znaleźliśmy": "my znalazłyśmy", 
+        "my wzięliśmy": "my wzięłyśmy", "my czekaliśmy": "my czekałyśmy", "my zapytaliśmy": "my zapytałyśmy", 
+        "my dostaliśmy": "my dostałyśmy", "my wiedzieliśmy": "my wiedziałyśmy", "my myśleliśmy": "my myślałyśmy", 
+        "my czuliśmy": "my czułyśmy", "my słyszeliśmy": "my słyszałyśmy", "my rozumieliśmy": "my rozumiałyśmy", 
+        "my chcieliśmy": "my chciałyśmy", "my mogliśmy": "my mogłyśmy", "my musieliśmy": "my musiałyśmy", 
+        "my spaliśmy": "my spałyśmy", "my siedzieliśmy": "my siedziałyśmy", "my staliśmy": "my stałyśmy", 
+        "my chodziliśmy": "my chodziłyśmy", "my jechaliśmy": "my jechałyśmy", "my pracowaliśmy": "my pracowałyśmy", 
+        "my odpoczywaliśmy": "my odpoczywałyśmy", 
     }
-    for masc, fem in masc_to_fem.items():
-        text = text.replace(masc, fem)
-    return text
 ```
 
 Każda osoba może dodać własne wyrażenia, aby poprawić tłumaczenie.
