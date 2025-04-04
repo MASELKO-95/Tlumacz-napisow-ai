@@ -3,14 +3,18 @@
 ## Opis
 Tłumacz napisów AI to projekt oparty na sztucznej inteligencji, który tłumaczy dialogi z plików `.ass` (napisy w formacie Advanced SubStation Alpha). Model rozpoznaje płeć mówcy na podstawie głosu i tłumaczy zaimki na język polski.
 
-**Aktualna wersja** tłumaczy tylko pliki `.ass` i obsługuje automatyczne tłumaczenie zaimków na podstawie płci.
+**Aktualna wersja** tłumaczy tylko pliki `.ass`.
 
 ## Wymagania
 
 Aby uruchomić projekt, musisz zainstalować wymagane biblioteki.
 
 ### Wymagana wersja Pythona:
-- Python 3.11
+`- Python 3.11`
+Jak sprawdzić aktulaną wersje 
+```Terminal
+python --version
+```
 
 ### Instalacja bibliotek:
 
@@ -40,7 +44,6 @@ Z grubsza struktura plików wygląda tak
 │   └── Exaple.mp4
 ├── Models
 │   ├── check_dependencies.py
-│   ├── czytajto.txt
 │   ├── glowny_tlumacz.py
 │   ├── is_correct_ass.py
 │   ├── main_gui.py
@@ -59,3 +62,7 @@ Uruchomienie
 python main_gui.py
 ```
 Tyle co do kwesti terminala 
+
+#Użytkownie 
+**Uwagi**
+Aby program poprawnie tłumaczył napisy zlecane jest przesyłanie plików do folderu `Ai_tlumacz/input`
