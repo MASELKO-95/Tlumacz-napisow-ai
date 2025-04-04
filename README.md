@@ -34,7 +34,7 @@ Natepnie nalezy w termninalu wpisać
 ```Termnial
 pip install -r requirements.txt
 ```
-#Uruchomienie
+### Uruchomienie
 Z grubsza struktura plików wygląda tak 
 ```Struktura Plików
 .
@@ -63,6 +63,6 @@ python main_gui.py
 ```
 Tyle co do kwesti terminala 
 
-#Użytkownie 
+### Użytkownie 
 **Uwagi**
 Aby program poprawnie tłumaczył napisy zlecane jest przesyłanie plików do folderu `Ai_tlumacz/input`
