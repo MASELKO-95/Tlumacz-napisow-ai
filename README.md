@@ -17,32 +17,45 @@ Aby uruchomić projekt, musisz zainstalować wymagane biblioteki.
 1. Upewnij się, że masz zainstalowanego Pythona w wersji 3.11.
 2. Zainstaluj wymagane biblioteki, wykonując następującą komendę:
 
-```bash
+
+```Termnial windows 🪟
+CD Dysk:folder_w_ktorym_zostalo_zapisne/Ai_tlumacz/models
+```
+Dla linuxa
+```Termnial linux 
+cd /home/nazwa_urzytkownika/folder_w_ktorym_zostalo_zapisne/Ai_tlumacz/models
+```
+
+Natepnie nalezy w termninalu wpisać 
+```Termnial
 pip install -r requirements.txt
-Uruchomienie modelu
-Uruchom terminal i przejdź do folderu, w którym znajduje się projekt:
+```
+#Uruchomienie
+Z grubsza struktura plików wygląda tak 
+```Struktura Plików
+.
+├── input
+│   ├── Example.wav
+│   ├── Exaple.ass
+│   └── Exaple.mp4
+├── Models
+│   ├── check_dependencies.py
+│   ├── czytajto.txt
+│   ├── glowny_tlumacz.py
+│   ├── is_correct_ass.py
+│   ├── main_gui.py
+│   ├── __pycache__
+│   │   └── rozpoznanie_zaimnkow.cpython-311.pyc
+│   ├── requirements.txt
+│   ├── rozpoznanie_zaimnkow.py
+│   └── wyodrebnienie_dzwieku.py
+├── output
+│   └── Exaple_voice_log.txt
+└── tempsf
 
-bash
-Kopiuj
-Edytuj
-cd ai_tlumacz/Models
-Uruchom model za pomocą poniższej komendy:
-
-bash
-Kopiuj
-Edytuj
-python main_guy.py
-Struktura projektu
-graphql
-Kopiuj
-Edytuj
-Ai_tlumacz/
-│
-├── Html/             # Interfejs web
-├── input/            # Pliki wejściowe
-├── Models/           # Moduły i skrypty AI
-│   ├── check_dependencies.py
-│   ├── rozpoznanie_zaimnkow.py
-│   └── main_guy.py
-├── output/           # Pliki wyjściowe
-└── tempsf/           # Tymczasowe pliki
+```
+Uruchomienie
+```Termnial
+python main_gui.py
+```
+Tyle co do kwesti terminala 
