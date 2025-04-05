@@ -1,6 +1,8 @@
 # Tłumacz napisów AI
+
 ![GitHub all releases](https://img.shields.io/github/downloads/MASELKO-95/Tlumacz-napisow-ai/total?style=flat&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MASELKO-95.Tlumacz-napisow-ai)
+
 
 ## 📥 Pobierz AI Tłumacz napisów
 
