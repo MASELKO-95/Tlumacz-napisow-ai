@@ -1,24 +1,27 @@
-OGÓLNA LICENCJA PUBLICZNA GNU
+Licencja
 
-Preambuła
+OGÓLNA LICENCJA PUBLICZNA GNU (GNU GPL v3)
 
-Ogólna Licencja Publiczna GNU (GPL) jest wolną licencją na oprogramowanie, która gwarantuje użytkownikom wolność do uruchamiania, kopiowania, modyfikowania i rozpowszechniania oprogramowania. Licencja ta została stworzona, aby zapewnić swobodę korzystania z oprogramowania i promować współdzielenie oraz modyfikowanie kodu źródłowego.
+Projekt ten udostępniany jest na zasadach wolnej licencji GPL v3, która daje użytkownikom prawo do:
 
-Podstawowe zasady licencji
+uruchamiania programu w dowolnym celu,
+kopiowania i rozpowszechniania go,
+analizowania działania programu i wprowadzania zmian,
+udostępniania zmodyfikowanych wersji — pod warunkiem, że pozostaną na tej samej licencji.
+Ważna uwaga
+Licencja obejmuje jedynie kod źródłowy projektu.
+Wykorzystywany model tłumaczeniowy facebook/nllb-200-1.3B nie posiada licencji komercyjnej.
 
-Masz prawo do używania, kopiowania i dystrybucji programu w dowolny sposób, pod warunkiem, że zachowujesz oryginalną licencję.
-
-Masz prawo do modyfikowania kodu źródłowego, jednak wszelkie zmiany muszą być również udostępniane na tych samych zasadach licencyjnych.
-
-Nie możesz ograniczać praw innych użytkowników do korzystania z tego oprogramowania na warunkach określonych w tej licencji.
-
-Program jest dostarczany „tak jak jest” bez żadnej gwarancji, co oznacza, że autorzy nie ponoszą odpowiedzialności za jego działanie.
+Jeśli chcesz wykorzystywać projekt komercyjnie (np. zarabiać) — musisz zastąpić model tłumaczeniowy innym, który jest objęty licencją typu open-source / GPL (np. modelem z Hugging Face o otwartej licencji).
 
 Wzmianka o autorze
+Możesz używać, modyfikować i rozpowszechniać ten projekt, ale proszę o dodanie wzmianki o autorze i linku do repozytorium:
 
-Projekt ten jest dostępny na zasadach wolnej licencji. Możesz go używać, modyfikować i udostępniać dalej, ale proszę o dodanie wzmianki o autorze oraz linku do oryginalnego repozytorium GitHub.
+Autor: Maselko95
+Repozytorium GitHub: https://github.com/MASELKO-95/Tlumacz-napisow-ai
 
-Autor: Maselko95 Repozytorium GitHub: https://github.com/MASELKO-95/Tlumacz-napisow-ai/
+Pełna treść licencji GNU GPL v3:
+https://www.gnu.org/licenses/gpl-3.0.html
 
-Więcej informacji na temat licencji GNU GPL v3 znajdziesz na oficjalnej stronie: https://www.gnu.org/licenses/gpl-3.0.html
+
 
