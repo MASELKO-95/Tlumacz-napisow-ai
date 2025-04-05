@@ -1,4 +1,9 @@
 # Tłumacz napisów AI
+
+![GitHub all releases](https://img.shields.io/github/downloads/MASELKO-95/Tlumacz-napisow-ai/total?style=flat&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MASELKO-95.Tlumacz-napisow-ai)
+
+
 ## 📥 Pobierz AI Tłumacz napisów
 
 Kliknij, aby pobrać najnowszą wersję:  
@@ -151,3 +156,4 @@ Każda osoba może dodać własne wyrażenia, aby poprawić tłumaczenie.
 
 ## Podsumowanie
 Projekt **Tłumacz napisów AI** to narzędzie wykorzystujące AI do inteligentnego tłumaczenia napisów w formacie `.ass`. Zachęcam do testowania, zgłaszania błędów oraz dzielenia się swoimi usprawnieniami!
+
