@@ -6,4 +6,4 @@ librosa
 transformers
 tensorflow
 torch
-
+requests

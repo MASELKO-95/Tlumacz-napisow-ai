@@ -1,0 +1,6 @@
+[replace]
+" Time to dig in!":"Smacznego",
+[Ignore]
+"mao ze dong"
+[delete]
+"chan","taiwan"
