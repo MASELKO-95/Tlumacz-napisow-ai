@@ -86,20 +86,31 @@ Aby program poprawnie tłumaczył napisy, zalecane jest przesyłanie plików do 
 Wygląd może się różnić w zależności od systemu operacyjnego.
 
 #### Linux:
+**Gui po aktualizacji do wersji 1.0.1a**
+
+![image](https://github.com/user-attachments/assets/420d6361-025b-4641-98d7-1179a9edbc29)
+
 - **Wyodrębnianie audio z filmu `.mp4`**
+- 
   ![image](https://github.com/user-attachments/assets/c03c6a58-41eb-4ce2-a743-c53c1088ab7c)
 
 - **Rozpoznawanie zaimków z pliku audio `.wav`**
+- 
   ![image](https://github.com/user-attachments/assets/8d3c5820-c8d7-4886-ad7e-a50a311c881b)
 
 - **Główna funkcja programu - tłumaczenie plików `.ass`**
+- 
   ![image](https://github.com/user-attachments/assets/1f947924-f36f-40ef-9553-820b2df7abdf)
 
 - **Eksperymentalna funkcja rozpoznawania mówcy i podmiany zaimków w pliku `.ass`**
+- 
   ![image](https://github.com/user-attachments/assets/b4bf9c7e-b88f-43a9-b578-e5cce13983b0)
 
 **Program wyświetla podgląd procesu tłumaczenia w terminalu:**
+
 ![image](https://github.com/user-attachments/assets/4c743e06-a61d-4648-8768-cccf43ca4584)
+
+
 
 ---
 
@@ -153,6 +164,45 @@ def adjust_pronouns(text):
 Każda osoba może dodać własne wyrażenia, aby poprawić tłumaczenie.
 
 ---
+## Edycja Wyjątków aby ulepszyć tłumacznie (Mods)
+```
+Przetwarzanie poszczególnych sekcji w słowniku:
+Sekcja [replace]:
+    • Dla każdej linii w tej sekcji, kod rozdziela tekst przed i po dwukropku (:), a następnie dodaje tę parę do listy reguł zastąpienia.
+    • Przykład: "Time to dig in!" : "Smacznego" dodaje do mod_rules["replace"] krotkę ('Time to dig in!', 'Smacznego').
+Sekcja [Ignore]:
+    • Każda linia w tej sekcji jest traktowana jako tekst do usunięcia z tłumaczenia.
+    • Przykład: "mao ze dong" dodaje do mod_rules["ignore"] element 'mao ze dong'.
+Sekcja [delete]:
+    • Każda linia w tej sekcji jest traktowana jako wyraz, który należy usunąć z tłumaczenia.
+    • Przykład: "chan", "taiwan" dodaje do mod_rules["delete"] dwa elementy: 'chan' i 'taiwan'.
+Ostateczny efekt:
+Po załadowaniu pliku słownika z przykładem:
+[replace]
+" Time to dig in!":"Smacznego",
+[Ignore]
+"mao ze dong"
+[delete]
+"chan","taiwan"
+Struktura mod_rules będzie wyglądać tak:
+mod_rules = {
+    "replace": [('Time to dig in!', 'Smacznego')],
+    "ignore": ['mao ze dong'],
+    "delete": ['chan', 'taiwan']
+}
+
+Przykład działania:
+Załóżmy, że mamy dialog:
+"Time to dig in! Let's go to Taiwan with mao ze dong."
+Po tłumaczeniu i zastosowaniu reguł:
+    1. "Time to dig in!" zostanie zastąpione przez "Smacznego".
+    2. "mao ze dong" zostanie usunięte.
+    3. "Taiwan" zostanie usunięte.
+Ostateczny wynik:
+"Smacznego Let's go to  with ."
+Podsumowanie:
+Tak, kod prawidłowo odczytuje plik słownika i wykonuje odpowiednie operacje na tłumaczeniu, takie jak zastępowanie, ignorowanie i usuwanie tekstu, zgodnie z definicjami w pliku .txt.
+```
 
 ## Podsumowanie
 Projekt **Tłumacz napisów AI** to narzędzie wykorzystujące AI do inteligentnego tłumaczenia napisów w formacie `.ass`. Zachęcam do testowania, zgłaszania błędów oraz dzielenia się swoimi usprawnieniami!
