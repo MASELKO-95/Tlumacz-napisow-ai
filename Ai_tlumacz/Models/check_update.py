@@ -2,7 +2,7 @@ import requests
 from tkinter import messagebox
 
 # Twoja obecna wersja
-current_version = "1.0.0"
+current_version = "1.0.1a"
 
 # URL do API GitHub
 GITHUB_RELEASES_API_URL = "https://api.github.com/repos/MASELKO-95/Tlumacz-napisow-ai/releases"
