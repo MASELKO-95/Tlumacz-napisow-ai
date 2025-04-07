@@ -7,7 +7,7 @@
 ## 📥 Pobierz AI Tłumacz napisów
 
 Kliknij, aby pobrać najnowszą wersję:  
-🔗 **[Pobierz tutaj](https://github.com/MASELKO-95/Tlumacz-napisow-ai/releases/tag/Ai)**  
+🔗 **[Pobierz tutaj](https://github.com/MASELKO-95/Tlumacz-napisow-ai/releases/)**  
 
 ## Opis
 Tłumacz napisów AI oparty o model `facebook/nllb-200-1.3B` to projekt wykorzystujący sztuczną inteligencję do tłumaczenia dialogów z plików `.ass` (napisy w formacie Advanced SubStation Alpha). Model rozpoznaje płeć mówcy na podstawie głosu i poprawnie tłumaczy zaimki na język polski.
