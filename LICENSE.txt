@@ -10,9 +10,9 @@ analizowania działania programu i wprowadzania zmian,
 udostępniania zmodyfikowanych wersji — pod warunkiem, że pozostaną na tej samej licencji.
 Ważna uwaga
 Licencja obejmuje jedynie kod źródłowy projektu.
-Wykorzystywany model tłumaczeniowy facebook/nllb-200-1.3B nie posiada licencji komercyjnej.
+Aplikacja jest interfejsem (klientem), który łączy się z zewnętrznymi modelami AI (poprzez Ollama, OpenAI, DeepSeek, Google Gemini itp.). Modele te oraz ich API posiadają własne, odrębne licencje i warunki użytkowania określone przez ich twórców.
 
-Jeśli chcesz wykorzystywać projekt komercyjnie (np. zarabiać) — musisz zastąpić model tłumaczeniowy innym, który jest objęty licencją typu open-source / GPL (np. modelem z Hugging Face o otwartej licencji).
+Jeśli chcesz wykorzystywać projekt komercyjnie (np. zarabiać) — musisz upewnić się, że wybrany przez Ciebie model AI oraz dostawca API (np. DeepSeek lub konkretny model uruchomiony w Ollama) zezwalają na komercyjne wykorzystanie generowanych treści.
 
 Wzmianka o autorze
 Możesz używać, modyfikować i rozpowszechniać ten projekt, ale proszę o dodanie wzmianki o autorze i linku do repozytorium:
