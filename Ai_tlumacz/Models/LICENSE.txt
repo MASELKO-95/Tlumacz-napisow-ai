@@ -1,0 +1,27 @@
+Licencja
+
+OGÓLNA LICENCJA PUBLICZNA GNU (GNU GPL v3)
+
+Projekt ten udostępniany jest na zasadach wolnej licencji GPL v3, która daje użytkownikom prawo do:
+
+uruchamiania programu w dowolnym celu,
+kopiowania i rozpowszechniania go,
+analizowania działania programu i wprowadzania zmian,
+udostępniania zmodyfikowanych wersji — pod warunkiem, że pozostaną na tej samej licencji.
+Ważna uwaga
+Licencja obejmuje jedynie kod źródłowy projektu.
+Aplikacja jest interfejsem (klientem), który łączy się z zewnętrznymi modelami AI (poprzez Ollama, OpenAI, DeepSeek, Google Gemini itp.). Modele te oraz ich API posiadają własne, odrębne licencje i warunki użytkowania określone przez ich twórców.
+
+Jeśli chcesz wykorzystywać projekt komercyjnie (np. zarabiać) — musisz upewnić się, że wybrany przez Ciebie model AI oraz dostawca API (np. DeepSeek lub konkretny model uruchomiony w Ollama) zezwalają na komercyjne wykorzystanie generowanych treści.
+
+Wzmianka o autorze
+Możesz używać, modyfikować i rozpowszechniać ten projekt, ale proszę o dodanie wzmianki o autorze i linku do repozytorium:
+
+Autor: Maselko95
+Repozytorium GitHub: https://github.com/MASELKO-95/Tlumacz-napisow-ai
+
+Pełna treść licencji GNU GPL v3:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+
+

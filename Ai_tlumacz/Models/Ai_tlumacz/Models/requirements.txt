@@ -1,0 +1,6 @@
+requests
+pillow
+pydub
+numpy
+sounddevice
+librosa
