@@ -1,0 +1,376 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Default(2)
+Audio File: CR_Jackofalltrades_S1E1.0_JOTSIM0001_366767_video_ja-jp_J5264596.mp4
+Video File: CR_Jackofalltrades_S1E1.0_JOTSIM0001_366767_video_ja-jp_J5264596.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.500000
+Scroll Position: 42
+Active Line: 56
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.15,0:00:32.82,Main,Orhun,0,0,0,,Maybe I haven't gotten as out \Nof shape as I worried I was.
+Dialogue: 0,0:00:32.82,0:00:36.20,Main,Orhun,0,0,0,,I can still make it as a swordsman, I think.
+Dialogue: 0,0:00:43.43,0:00:46.31,Main,Orhun,0,0,0,,Time to try some support magic, too.
+Dialogue: 0,0:00:47.09,0:00:48.39,Main,Orhun,0,0,0,,Strength Up.
+Dialogue: 0,0:00:51.80,0:00:55.07,Italics,Orhun,0,0,0,,Support magic improves its \Ntargets' physical abilities,
+Dialogue: 0,0:00:55.07,0:00:57.18,Italics,Orhun,0,0,0,,or strengthens their equipment.
+Dialogue: 0,0:01:00.20,0:01:05.71,Italics,Orhun,0,0,0,,The caster can not only use it to help his \Nparty members, he can put it on himself.
+Dialogue: 0,0:01:05.71,0:01:10.13,Italics,Orhun,0,0,0,,With spells to increase both attack and \Ndefense, it's something every party needs.
+Dialogue: 0,0:01:18.89,0:01:25.23,Sign_Basic,Text,0,0,0,,{\an8}EPISODE 1: THE JACK-OF-ALL-TRADES\NBECOMES A SWORDSMAN ONCE MORE
+Dialogue: 0,0:01:33.51,0:01:35.49,Italics,Orhun,0,0,0,,But it has a weakness, too.
+Dialogue: 0,0:01:37.02,0:01:38.09,Italics,Orhun,0,0,0,,Time.
+Dialogue: 0,0:01:40.28,0:01:42.24,Main,Orhun,0,0,0,,Three minutes exactly, huh?
+Dialogue: 0,0:01:44.94,0:01:46.40,Main,Orhun,0,0,0,,Strength Up.
+Dialogue: 0,0:01:48.55,0:01:52.00,Italics,Orhun,0,0,0,,Support magic doesn't last forever.
+Dialogue: 0,0:01:52.76,0:01:57.37,Italics,Orhun,0,0,0,,And an individual's magic resistance \Nchanges the amount of time it lasts.
+Dialogue: 0,0:01:57.97,0:02:00.52,Italics,Orhun,0,0,0,,In my case, it lasts 180 seconds.
+Dialogue: 0,0:02:01.06,0:02:02.46,Main,Orhun,0,0,0,,Three seconds left...
+Dialogue: 0,0:02:02.46,0:02:03.80,Main,Orhun,0,0,0,,Strength Up!
+Dialogue: 0,0:02:05.12,0:02:09.32,Italics,Orhun,0,0,0,,I have to keep a close eye on the state of \Nthe battle, and cast it at just the right time.
+Dialogue: 0,0:02:09.32,0:02:13.48,Italics,Orhun,0,0,0,,Enchanters who use support magic are \Nconstantly in a race against time.
+Dialogue: 0,0:02:13.93,0:02:18.02,Italics,Orhun,0,0,0,,Normally, you don't try to use \Nit while swinging a sword around.
+Dialogue: 0,0:02:18.02,0:02:19.74,Main,Orhun,0,0,0,,But in my case...
+Dialogue: 0,0:02:26.73,0:02:30.07,Flashback,Oliver,0,0,0,,We're going to have to ask you \Nto leave the hero's party today.
+Dialogue: 0,0:02:31.31,0:02:33.25,Flashback,Orhun,0,0,0,,Is this some kind of joke, Oliver?
+Dialogue: 0,0:02:33.74,0:02:36.38,Flashback,Oliver,0,0,0,,It's not, Orhun.
+Dialogue: 0,0:02:36.38,0:02:39.36,Flashback,Orhun,0,0,0,,What are you talking about? \NWe're childhood friends!
+Dialogue: 0,0:02:39.36,0:02:41.34,Flashback,Orhun,0,0,0,,Comrades who've always been together!
+Dialogue: 0,0:02:41.34,0:02:47.07,Flashback,Oliver,0,0,0,,Yes. Until now, I've given you plenty of \Nchances because you're from the same village.
+Dialogue: 0,0:02:47.07,0:02:50.23,Flashback,Oliver,0,0,0,,But from now on, \Nyou won't be able to keep up.
+Dialogue: 0,0:02:51.27,0:02:53.02,Flashback,Anneli,0,0,0,,Why not just come out and say it?
+Dialogue: 0,0:02:53.02,0:02:55.61,Flashback,Derick,0,0,0,,Tell him he's just slowing us down.
+Dialogue: 0,0:02:56.22,0:02:58.38,Flashback,Orhun,0,0,0,,Anneli? Derick?
+Dialogue: 0,0:02:59.21,0:03:01.87,Flashback,Oliver,0,0,0,,You just aren't strong enough.
+Dialogue: 0,0:03:01.87,0:03:04.37,Flashback,Oliver,0,0,0,,So we're going to ask you \Nto leave the hero's party.
+Dialogue: 0,0:03:05.81,0:03:06.86,Flashback,Orhun,0,0,0,,Oliver...
+Dialogue: 0,0:03:08.31,0:03:15.80,Flashback_Italics,Orhun,0,0,0,,The party that Oliver and I formed eight years \Nago achieved S-Rank in just a few years.
+Dialogue: 0,0:03:16.59,0:03:22.00,Flashback_Italics,Orhun,0,0,0,,We were the first to reach the 94th \Nfloor in the Southern Great Dungeon.
+Dialogue: 0,0:03:22.00,0:03:26.02,Flashback_Italics,Orhun,0,0,0,,People began to call us the "Hero's Party."
+Dialogue: 0,0:03:26.85,0:03:30.83,Flashback_Italics,Orhun,0,0,0,,Perhaps you're right. \NMaybe I'm not strong enough.
+Dialogue: 0,0:03:30.83,0:03:34.61,Flashback_Italics,Orhun,0,0,0,,But that goes for all of us. At this rate...
+Dialogue: 0,0:03:34.61,0:03:38.82,Flashback,Oliver,0,0,0,,Orhun, we didn't understand \Nhow important it was
+Dialogue: 0,0:03:38.82,0:03:41.92,Flashback,Oliver,0,0,0,,to have an enchanter who \Ncould use support magic.
+Dialogue: 0,0:03:42.06,0:03:43.11,Flashback,Oliver,0,0,0,,But...
+Dialogue: 0,0:03:43.67,0:03:45.64,Flashback,Oliver,0,0,0,,In the joint raid last month,
+Dialogue: 0,0:03:45.64,0:03:50.75,Flashback,Oliver,0,0,0,,we were able to see how incredible the \Nother S-Rank party's enchanters were.
+Dialogue: 0,0:03:50.75,0:03:55.05,Flashback,Oliver,0,0,0,,And we understood how weak \Nyour support magic is.
+Dialogue: 0,0:03:55.75,0:03:59.85,Flashback,Orhun,0,0,0,,Of course it is. \NI'm supposed to be a swordsman.
+Dialogue: 0,0:03:59.85,0:04:01.85,Flashback,Orhun,0,0,0,,That's why I created my own original magic.
+Dialogue: 0,0:04:01.85,0:04:03.01,Flashback,Derick,0,0,0,,Shut up!
+Dialogue: 0,0:04:03.01,0:04:07.64,Flashback,Derick,0,0,0,,You converted because Oliver was \Nbetter with a blade than you!
+Dialogue: 0,0:04:07.64,0:04:11.52,Flashback,Anneli,0,0,0,,And now, you're not a very \Ngood enchanter either.
+Dialogue: 0,0:04:11.52,0:04:13.14,Flashback,Anneli,0,0,0,,Are you in a position to complain?
+Dialogue: 0,0:04:13.56,0:04:16.31,Flashback,Orhun,0,0,0,,We needed an enchanter,
+Dialogue: 0,0:04:16.31,0:04:20.31,Flashback,Orhun,0,0,0,,so I converted because I was the one \Nwho had the most aptitude for it.
+Dialogue: 0,0:04:20.31,0:04:23.57,Flashback,Orhun,0,0,0,,I've invented my own kind of \Nmagic to make up for my flaws.
+Dialogue: 0,0:04:23.57,0:04:26.74,Flashback,Orhun,0,0,0,,And we've survived even on the deepest \Nfloors of the dungeon because of that...
+Dialogue: 0,0:04:26.74,0:04:29.29,Flashback,Oliver,0,0,0,,We've already found a \Nreplacement enchanter.
+Dialogue: 0,0:04:32.40,0:04:34.29,Flashback,Oliver,0,0,0,,I'm sorry, but that's how it's going to be.
+Dialogue: 0,0:04:36.29,0:04:38.88,Flashback,Anneli,0,0,0,,We're the Hero's Party!
+Dialogue: 0,0:04:38.88,0:04:41.82,Flashback,Anneli,0,0,0,,We have to keep going!
+Dialogue: 0,0:04:41.82,0:04:44.55,Flashback,Anneli,0,0,0,,And we can't do that with you, \Nis what we're saying.
+Dialogue: 0,0:04:45.05,0:04:46.60,Flashback,Orhun,0,0,0,,What?
+Dialogue: 0,0:04:47.81,0:04:51.63,Flashback,Orhun,0,0,0,,Is that how you treat me after \Nall we've been through together?
+Dialogue: 0,0:04:53.58,0:04:55.65,Flashback,Orhun,0,0,0,,There's no place for me \Nhere anymore, is there?
+Dialogue: 0,0:04:58.21,0:05:01.07,Flashback,Orhun,0,0,0,,Very well. Thanks for everything.
+Dialogue: 0,0:05:06.32,0:05:10.70,Flashback,Anneli,0,0,0,,Magic, sword fighting... you can do a lot, \Nbut only at an A-Rank level.
+Dialogue: 0,0:05:10.70,0:05:13.08,Flashback,Anneli,0,0,0,,But you kept telling us what to do,
+Dialogue: 0,0:05:13.08,0:05:14.78,Flashback,Anneli,0,0,0,,and it was pissing us off.
+Dialogue: 0,0:05:16.82,0:05:20.13,Flashback,Anneli,0,0,0,,Do you know what they call people like you?
+Dialogue: 0,0:05:20.13,0:05:22.59,Flashback,Anneli,0,0,0,,A jack-of-all-trades!
+Dialogue: 0,0:05:25.83,0:05:27.98,Main,Orhun,0,0,0,,A jack-of-all-trades, huh?
+Dialogue: 0,0:05:29.11,0:05:32.80,Main,Orhun,0,0,0,,All right. A swordsman and an enchanter...
+Dialogue: 0,0:05:32.80,0:05:35.92,Main,Orhun,0,0,0,,This new style I've developed \Nthat combines both...
+Dialogue: 0,0:05:36.56,0:05:38.52,Main,Orhun,0,0,0,,I'm adaptable enough to pull it off.
+Dialogue: 0,0:05:39.39,0:05:43.78,Italics,Orhun,0,0,0,,So that nobody will call me a \Njack-of-all-trades anymore...
+Dialogue: 0,0:05:44.83,0:05:48.83,Main,Orhun,0,0,0,,Someday, I'll be an adventurer \Nwho can do anything.
+Dialogue: 0,0:05:55.09,0:05:58.04,Main,Orhun,0,0,0,,And now I'm registered with \Nthe teleportation crystal.
+Dialogue: 0,0:05:58.69,0:06:02.08,Main,Orhun,0,0,0,,I can start from Floor 7 next time.
+Dialogue: 0,0:06:02.08,0:06:03.13,Main,Orhun,0,0,0,,That's enough for today...
+Dialogue: 0,0:06:03.13,0:06:04.60,Main,Adventurer 1,0,0,0,,Hurry! Come on!
+Dialogue: 0,0:06:07.90,0:06:08.95,Italics,Orhun,0,0,0,,What?
+Dialogue: 0,0:06:13.06,0:06:15.53,Main,Adventurer 2,0,0,0,,Damn it! How did this happen?
+Dialogue: 0,0:06:15.53,0:06:18.52,Main,Adventurer 1,0,0,0,,There's nothing we can do about it. \NThere're so many orcs...
+Dialogue: 0,0:06:18.52,0:06:21.36,Main,Adventurer 2,0,0,0,,But we left that girl behind!
+Dialogue: 0,0:06:21.36,0:06:22.19,Italics,Orhun,0,0,0,,What?
+Dialogue: 0,0:06:22.19,0:06:24.32,Main,Adventurer 1,0,0,0,,We would've been wiped out!
+Dialogue: 0,0:06:25.13,0:06:27.45,Main,Adventurer 1,0,0,0,,I made the right call!
+Dialogue: 0,0:06:27.45,0:06:29.20,Main,Adventurer 2,0,0,0,,B-But that doesn't mean...
+Dialogue: 0,0:06:29.88,0:06:32.25,Main,Adventurer 1,0,0,0,,She just joined us today...
+Dialogue: 0,0:06:32.25,0:06:35.20,Main,Adventurer 1,0,0,0,,of course I'm going to prioritize \Nyou, my old friends!
+Dialogue: 0,0:06:35.65,0:06:37.65,Italics,Orhun,0,0,0,,I shouldn't get involved.
+Dialogue: 0,0:06:38.17,0:06:41.82,Italics,Orhun,0,0,0,,She just had bad luck joining \Nup with them, is all.
+Dialogue: 0,0:06:42.16,0:06:43.21,Italics,Orhun,0,0,0,,But...
+Dialogue: 0,0:06:44.31,0:06:48.97,Italics,Orhun,0,0,0,,I know how much it hurts for \Nyour party to abandon you.
+Dialogue: 0,0:06:49.41,0:06:51.21,Main,Adventurer 1,0,0,0,,I made the right call!
+Dialogue: 0,0:06:51.21,0:06:53.78,Main,Adventurer 1,0,0,0,,If you don't like it, \Nare you going to go save her?
+Dialogue: 0,0:06:53.78,0:06:56.29,Main,Adventurer 2,0,0,0,,No way! I can't...
+Dialogue: 0,0:06:56.29,0:06:57.89,Main,Orhun,0,0,0,,I can't bear to listen to this.
+Dialogue: 0,0:06:58.44,0:06:59.90,Main,Adventurer 2,0,0,0,,Who are you?
+Dialogue: 0,0:07:01.47,0:07:03.59,Main,Orhun,0,0,0,,You left that girl to die.
+Dialogue: 0,0:07:03.59,0:07:06.66,Main,Orhun,0,0,0,,Now you're just making excuses \Ninstead of going to save her.
+Dialogue: 0,0:07:06.66,0:07:08.99,Main,Orhun,0,0,0,,Guys like you piss me off more than anything.
+Dialogue: 0,0:07:08.99,0:07:11.20,Main,Adventurer 2,0,0,0,,You... How dare you?!
+Dialogue: 0,0:07:11.20,0:07:15.24,Main,Adventurer 2,0,0,0,,Even if I stayed back there, \NI couldn't save her alone!
+Dialogue: 0,0:07:18.83,0:07:20.65,Main,Orhun,0,0,0,,Then just lie there.
+Dialogue: 0,0:07:20.65,0:07:21.70,Main,Orhun,0,0,0,,Where is she?
+Dialogue: 0,0:07:22.38,0:07:24.78,Main,Orhun,0,0,0,,Tell me where you left her to die!
+Dialogue: 0,0:07:28.32,0:07:29.38,Main,Sophia,0,0,0,,Stay away...
+Dialogue: 0,0:07:35.16,0:07:36.28,Main,Sophia,0,0,0,,Stay away...
+Dialogue: 0,0:07:37.01,0:07:38.64,Main,Sophia,0,0,0,,Stay away from me!
+Dialogue: 0,0:07:43.65,0:07:46.62,Main,Sophia,0,0,0,,I can't handle so many...
+Dialogue: 0,0:07:47.47,0:07:48.65,Main,Sophia,0,0,0,,Sister...!
+Dialogue: 0,0:07:54.37,0:07:55.50,Main,Sophia,0,0,0,,Somebody...
+Dialogue: 0,0:07:56.53,0:07:57.58,Main,Sophia,0,0,0,,save me!
+Dialogue: 0,0:08:00.77,0:08:02.16,Main,Orhun,0,0,0,,Aeroshock!
+Dialogue: 0,0:08:14.90,0:08:16.95,Italics,Sophia,0,0,0,,Who is he? A swordsman?
+Dialogue: 0,0:08:19.33,0:08:21.06,Main,Orhun,0,0,0,,Strength Up!
+Dialogue: 0,0:08:26.37,0:08:27.71,Main,Orhun,0,0,0,,Technical Up!
+Dialogue: 0,0:08:29.76,0:08:31.15,Main,Sophia,0,0,0,,Support magic?
+Dialogue: 0,0:08:38.36,0:08:41.25,Italics,Sophia,0,0,0,,Is he a swordsman? Or an enchanter?
+Dialogue: 0,0:08:45.30,0:08:46.89,Main,Orhun,0,0,0,,Sharpness Up!
+Dialogue: 0,0:08:57.91,0:09:02.43,Italics,Sophia,0,0,0,,Wow... I've never seen \Nanyone fight like this!
+Dialogue: 0,0:09:05.94,0:09:07.97,Italics,Orhun,0,0,0,,There's a lot of them.
+Dialogue: 0,0:09:07.97,0:09:10.87,Italics,Orhun,0,0,0,,I can see why a low-ranking party would run.
+Dialogue: 0,0:09:11.46,0:09:13.24,Italics,Orhun,0,0,0,,But me...
+Dialogue: 0,0:09:16.38,0:09:18.03,Italics,Orhun,0,0,0,,I can handle this alone!
+Dialogue: 0,0:09:20.01,0:09:21.16,Italics,Sophia,0,0,0,,He's...
+Dialogue: 0,0:09:28.00,0:09:29.60,Italics,Sophia,0,0,0,,so strong!
+Dialogue: 0,0:09:34.96,0:09:36.01,Main,Orhun,0,0,0,,You okay?
+Dialogue: 0,0:09:38.02,0:09:40.86,Main,Sophia,0,0,0,,I'm alive...
+Dialogue: 0,0:09:55.01,0:09:57.07,Main,Orhun,0,0,0,,Okay, I'll be going.
+Dialogue: 0,0:09:57.07,0:09:59.00,Main,Sophia,0,0,0,,Wait!
+Dialogue: 0,0:10:00.96,0:10:03.68,Main,Sophia,0,0,0,,Let me thank you properly.
+Dialogue: 0,0:10:04.19,0:10:05.89,Main,Sophia,0,0,0,,Thank you so much!
+Dialogue: 0,0:10:06.63,0:10:09.21,Main,Sophia,0,0,0,,My name is Sophia Claudel!
+Dialogue: 0,0:10:10.03,0:10:11.24,Main,Orhun,0,0,0,,Claudel?
+Dialogue: 0,0:10:12.11,0:10:13.47,Italics,Orhun,0,0,0,,That crest...
+Dialogue: 0,0:10:13.47,0:10:14.21,Main,Sophia,0,0,0,,Um...
+Dialogue: 0,0:10:14.21,0:10:18.80,Main,Orhun,0,0,0,,Oh, no, I'm sorry for not giving my name.
+Dialogue: 0,0:10:18.80,0:10:19.97,Main,Orhun,0,0,0,,I'm Orhun Dura.
+Dialogue: 0,0:10:20.42,0:10:22.08,Main,Sophia,0,0,0,,Orhun...
+Dialogue: 0,0:10:22.08,0:10:23.85,Main,Sophia,0,0,0,,A wonderful name.
+Dialogue: 0,0:10:26.00,0:10:32.61,Main,Sophia,0,0,0,,So, Orhun... would it be all right if \NI treated you to dinner as thanks?
+Dialogue: 0,0:10:33.14,0:10:36.24,Main,Orhun,0,0,0,,I didn't save you because I wanted thanks...
+Dialogue: 0,0:10:36.63,0:10:38.06,Main,Sophia,0,0,0,,Please!
+Dialogue: 0,0:10:40.38,0:10:42.24,Main,Orhun,0,0,0,,O-Okay...
+Dialogue: 0,0:10:42.24,0:10:44.24,Main,Sophia,0,0,0,,Thank you.
+Dialogue: 0,0:10:47.12,0:10:49.12,Main,Sophia,0,0,0,,Orhun, we're here!
+Dialogue: 0,0:10:51.54,0:10:56.01,Main,Sophia,0,0,0,,This place isn't expensive, \Nbut it's really good!
+Dialogue: 0,0:10:56.32,0:10:58.44,Italics,Orhun,0,0,0,,Just like I thought, \Nit's one of the Rabbits' shops...
+Dialogue: 0,0:11:00.82,0:11:03.64,Italics,Orhun,0,0,0,,I could guess from the crest on her cape,
+Dialogue: 0,0:11:03.64,0:11:07.78,Italics,Orhun,0,0,0,,but she's clearly from the \NNight Sky Silver Rabbits,
+Dialogue: 0,0:11:07.78,0:11:11.60,Italics,Orhun,0,0,0,,one of the biggest guilds \Nin the kingdom of Nohitant.
+Dialogue: 0,0:11:11.96,0:11:16.61,Italics,Orhun,0,0,0,,The Night Sky Silver Rabbits are one of \Nthe most popular clans in the kingdom...
+Dialogue: 0,0:11:16.96,0:11:19.18,Italics,Orhun,0,0,0,,After all, she's part of them.
+Dialogue: 0,0:11:20.11,0:11:21.72,Main,Sophia,0,0,0,,Sister?
+Dialogue: 0,0:11:22.52,0:11:23.98,Main,Sophia,0,0,0,,What are you doing here?
+Dialogue: 0,0:11:24.69,0:11:25.74,Italics,Orhun,0,0,0,,Sister?
+Dialogue: 0,0:11:25.74,0:11:27.49,Main,Selma,0,0,0,,Oh, Sophia?
+Dialogue: 0,0:11:27.82,0:11:30.42,Main,Selma,0,0,0,,I had a meeting near here today.
+Dialogue: 0,0:11:31.00,0:11:33.70,Main,Selma,0,0,0,,So... who are you with?
+Dialogue: 0,0:11:33.70,0:11:36.94,Main,Selma,0,0,0,,It's too soon for you to have a boyfriend!
+Dialogue: 0,0:11:38.81,0:11:40.22,Main,Selma,0,0,0,,Orhun Dura?
+Dialogue: 0,0:11:40.67,0:11:44.18,Main,Orhun,0,0,0,,It's been a while, Selma Claudel....
+Dialogue: 0,0:11:45.04,0:11:48.18,Main,Sophia,0,0,0,,Orhun, you know her?
+Dialogue: 0,0:11:48.18,0:11:49.68,Main,Orhun,0,0,0,,Yes, of course.
+Dialogue: 0,0:11:50.54,0:11:56.32,Italics,Orhun,0,0,0,,Selma Claudel is the leader of the S-Rank party \Nthat's the most powerful in the Silver Rabbits...
+Dialogue: 0,0:11:56.32,0:11:59.44,Italics,Orhun,0,0,0,,and the continent's most powerful enchanter.
+Dialogue: 0,0:12:00.16,0:12:03.96,Italics,Orhun,0,0,0,,She's the one who made enchanters famous,
+Dialogue: 0,0:12:03.96,0:12:07.70,Italics,Orhun,0,0,0,,and created the idea of different \Nparty members having different roles.
+Dialogue: 0,0:12:07.70,0:12:09.83,Italics,Orhun,0,0,0,,Attackers to take down the enemy.
+Dialogue: 0,0:12:09.83,0:12:11.58,Italics,Orhun,0,0,0,,Defenders to tank the hits.
+Dialogue: 0,0:12:11.58,0:12:13.71,Italics,Orhun,0,0,0,,Supporters helping in the rear.
+Dialogue: 0,0:12:13.71,0:12:17.18,Italics,Orhun,0,0,0,,Splitting the party into these \Nthree roles was her idea.
+Dialogue: 0,0:12:17.72,0:12:21.10,Italics,Orhun,0,0,0,,It changed the way adventurers think \Nabout going into the dungeons forever.
+Dialogue: 0,0:12:22.49,0:12:24.85,Italics,Orhun,0,0,0,,The Hero's Party is no exception.
+Dialogue: 0,0:12:24.85,0:12:27.95,Italics,Orhun,0,0,0,,That's why I had to go from being \Na swordsman to an enchanter.
+Dialogue: 0,0:12:28.97,0:12:34.37,Italics,Orhun,0,0,0,,And it was seeing her in the \Nraid last month that caused
+Dialogue: 0,0:12:34.37,0:12:36.65,Italics,Orhun,0,0,0,,Oliver and the others to get rid of me.
+Dialogue: 0,0:12:38.02,0:12:40.63,Italics,Orhun,0,0,0,,I thought they were just in the same clan...
+Dialogue: 0,0:12:40.63,0:12:42.67,Italics,Orhun,0,0,0,,I didn't expect them to be siblings.
+Dialogue: 0,0:12:43.74,0:12:47.93,Italics,Orhun,0,0,0,,But... Why is she mad at me?
+Dialogue: 0,0:12:47.93,0:12:52.12,Main,Selma,0,0,0,,So you're going after my \Nfourteen-year-old sister?
+Dialogue: 0,0:12:52.12,0:12:54.62,Main,Selma,0,0,0,,That's very brave of you.
+Dialogue: 0,0:12:55.04,0:12:58.13,Italics,Orhun,0,0,0,,Oh, so that's it.
+Dialogue: 0,0:12:58.13,0:12:59.57,Main,Orhun,0,0,0,,You've got it all wrong.
+Dialogue: 0,0:12:59.57,0:13:02.14,Main,Orhun,0,0,0,,Yes, I was about to eat dinner with her.
+Dialogue: 0,0:13:02.14,0:13:04.38,Main,Orhun,0,0,0,,But my intentions are \Ncompletely pure, I assure you.
+Dialogue: 0,0:13:04.38,0:13:08.53,Main,Selma,0,0,0,,What, so my Sophia's not good enough for you?
+Dialogue: 0,0:13:08.53,0:13:10.14,Italics,Orhun,0,0,0,,Wow, this is annoying.
+Dialogue: 0,0:13:10.14,0:13:12.27,Main,Sophia,0,0,0,,Sister! Stop!
+Dialogue: 0,0:13:12.27,0:13:15.39,Main,Sophia,0,0,0,,Don't be rude to the man who saved my life!
+Dialogue: 0,0:13:16.05,0:13:17.89,Main,Selma,0,0,0,,Saved your life?
+Dialogue: 0,0:13:18.32,0:13:19.45,Main,Selma,0,0,0,,Don't tell me...
+Dialogue: 0,0:13:20.45,0:13:22.68,Main,Selma,0,0,0,,Did you go to the dungeon alone?
+Dialogue: 0,0:13:23.10,0:13:24.15,Main,Sophia,0,0,0,,Um...
+Dialogue: 0,0:13:25.11,0:13:26.53,Main,Selma,0,0,0,,Did you?
+Dialogue: 0,0:13:27.81,0:13:28.86,Main,Sophia,0,0,0,,Yeah...
+Dialogue: 0,0:13:31.72,0:13:35.48,Main,Selma,0,0,0,,I told you we'd be going into the \NGreat Dungeon the day after tomorrow,
+Dialogue: 0,0:13:35.48,0:13:38.29,Main,Selma,0,0,0,,and to stay put for a few days...
+Dialogue: 0,0:13:38.74,0:13:40.42,Main,Sophia,0,0,0,,I'm sorry.
+Dialogue: 0,0:13:40.42,0:13:44.80,Italics,Orhun,0,0,0,,I see. So she was dungeon-delving \Nwithout telling her clan.
+Dialogue: 0,0:13:44.80,0:13:48.95,Main,Selma,0,0,0,,Well, it seems you're safe, so I \Nwon't give you a hard time about it.
+Dialogue: 0,0:13:48.95,0:13:51.47,Main,Selma,0,0,0,,But from now on, no going off on your own.
+Dialogue: 0,0:13:51.47,0:13:52.31,Main,Sophia,0,0,0,,Okay...
+Dialogue: 0,0:13:52.83,0:13:56.64,Main,Selma,0,0,0,,Orhun, I guess you saved \Nmy sister. Thank you.
+Dialogue: 0,0:13:57.13,0:14:00.81,Main,Selma,0,0,0,,I'm sorry for being so rude.
+Dialogue: 0,0:14:00.81,0:14:02.71,Main,Orhun,0,0,0,,It's fine.
+Dialogue: 0,0:14:04.65,0:14:06.70,Main,Selma,0,0,0,,I haven't seen you since the raid.
+Dialogue: 0,0:14:07.12,0:14:08.41,Main,Orhun,0,0,0,,That's right.
+Dialogue: 0,0:14:08.41,0:14:11.13,Main,Selma,0,0,0,,It's our first time talking like this.
+Dialogue: 0,0:14:11.13,0:14:11.83,Main,Orhun,0,0,0,,Yes.
+Dialogue: 0,0:14:12.16,0:14:15.04,Main,Sophia,0,0,0,,You two knew each other?
+Dialogue: 0,0:14:15.42,0:14:20.09,Main,Orhun,0,0,0,,We met during the raid last month.
+Dialogue: 0,0:14:20.09,0:14:21.67,Main,Sophia,0,0,0,,I see.
+Dialogue: 0,0:14:23.52,0:14:27.93,Main,Selma,0,0,0,,We're both enchanters, \Nso we were stationed together.
+Dialogue: 0,0:14:28.24,0:14:32.93,Main,Orhun,0,0,0,,You took command and I helped you.
+Dialogue: 0,0:14:33.29,0:14:37.88,Main,Selma,0,0,0,,And you helped a lot. \NIt was just what I expected.
+Dialogue: 0,0:14:37.88,0:14:41.44,Main,Sophia,0,0,0,,It's like you've known him for a while.
+Dialogue: 0,0:14:42.44,0:14:45.69,Main,Selma,0,0,0,,What, Sophia? You don't know about Orhun?
+Dialogue: 0,0:14:46.73,0:14:49.45,Main,Sophia,0,0,0,,No. Is he famous?
+Dialogue: 0,0:14:49.73,0:14:54.35,Main,Selma,0,0,0,,Of course he is! \NHe's a member of the Hero's Party!
+Dialogue: 0,0:14:58.21,0:15:00.12,Main,Sophia,0,0,0,,Um, uh... well...
+Dialogue: 0,0:15:00.12,0:15:01.71,Main,Orhun,0,0,0,,Don't get so flustered.
+Dialogue: 0,0:15:02.31,0:15:05.71,Main,Orhun,0,0,0,,And I'm not a hero anymore.
+Dialogue: 0,0:15:06.00,0:15:09.47,Main,Selma,0,0,0,,You're not? Did you leave your party?
+Dialogue: 0,0:15:09.99,0:15:12.68,Main,Orhun,0,0,0,,Yes. Yesterday.
+Dialogue: 0,0:15:12.68,0:15:15.22,Main,Selma,0,0,0,,Why would they let somebody like you go?
+Dialogue: 0,0:15:15.94,0:15:17.83,Main,Orhun,0,0,0,,Well, they had their reasons.
+Dialogue: 0,0:15:17.83,0:15:19.91,Main,Orhun,0,0,0,,Both of us agreed to it.
+Dialogue: 0,0:15:20.61,0:15:21.85,Main,Selma,0,0,0,,I see...
+Dialogue: 0,0:15:23.76,0:15:26.76,Main,Selma,0,0,0,,So you're free at the moment, right?
+Dialogue: 0,0:15:26.76,0:15:28.78,Main,Orhun,0,0,0,,Well, I suppose.
+Dialogue: 0,0:15:29.29,0:15:31.86,Italics,Orhun,0,0,0,,Is she going to recruit \Nme to the Silver Rabbits?
+Dialogue: 0,0:15:31.86,0:15:33.53,Main,Selma,0,0,0,,If you're not busy...
+Dialogue: 0,0:15:33.53,0:15:34.37,Main,Orhun,0,0,0,,Sorry!
+Dialogue: 0,0:15:35.24,0:15:40.37,Main,Orhun,0,0,0,,Um, I don't want to be in a \Nclan or party for a while...
+Dialogue: 0,0:15:40.72,0:15:42.99,Main,Selma,0,0,0,,I think you've got the wrong idea.
+Dialogue: 0,0:15:45.12,0:15:47.59,Main,Selma,0,0,0,,I've got the perfect job for you.
+Dialogue: 0,0:15:47.89,0:15:49.03,Main,Orhun,0,0,0,,Job?
+Dialogue: 0,0:15:49.47,0:15:54.63,Main,Selma,0,0,0,,I want you to go with our clan on \Nour teaching expedition tomorrow.
+Dialogue: 0,0:15:54.63,0:15:56.10,Main,Selma,0,0,0,,I'll make sure you're paid.
+Dialogue: 0,0:15:56.67,0:15:58.52,Main,Orhun,0,0,0,,Teaching expedition?
+Dialogue: 0,0:15:58.80,0:16:02.13,Main,Selma,0,0,0,,Just what the name implies. \NIt's to teach the new recruits.
+Dialogue: 0,0:16:02.13,0:16:04.61,Main,Selma,0,0,0,,You can think of it as on-the-job training.
+Dialogue: 0,0:16:05.08,0:16:08.26,Main,Orhun,0,0,0,,You want me to go along?
+Dialogue: 0,0:16:08.26,0:16:12.56,Main,Selma,0,0,0,,A group of A-Ranks and higher \Nwill lead the new recruits.
+Dialogue: 0,0:16:12.56,0:16:16.62,Main,Selma,0,0,0,,We'll spend three days going 50 floors \Ndown in the Southern Great Dungeon.
+Dialogue: 0,0:16:16.94,0:16:18.33,Main,Orhun,0,0,0,,Three days?
+Dialogue: 0,0:16:18.33,0:16:23.04,Main,Orhun,0,0,0,,Even the best new adventurers \Nwould take six months to a year.
+Dialogue: 0,0:16:23.04,0:16:24.88,Main,Orhun,0,0,0,,That's a pretty crazy schedule.
+Dialogue: 0,0:16:25.36,0:16:29.77,Main,Selma,0,0,0,,It's crazy, but not impossible \Nif you take the shortest route.
+Dialogue: 0,0:16:29.77,0:16:30.86,Main,Orhun,0,0,0,,But...
+Dialogue: 0,0:16:31.34,0:16:34.13,Main,Selma,0,0,0,,And our sponsors are insisting...
+Dialogue: 0,0:16:34.78,0:16:38.19,Main,Orhun,0,0,0,,I guess the Silver Rabbits \Nhave it rough, huh?
+Dialogue: 0,0:16:38.94,0:16:41.61,Main,Orhun,0,0,0,,But what you're proposing \Nis crazy enough that
+Dialogue: 0,0:16:41.61,0:16:44.72,Main,Orhun,0,0,0,,you should've been able to \Nturn down your sponsors.
+Dialogue: 0,0:16:45.19,0:16:47.65,Main,Orhun,0,0,0,,If you're doing it anyway...
+Dialogue: 0,0:16:48.65,0:16:50.41,Main,Orhun,0,0,0,,Is there some other reason?
+Dialogue: 0,0:16:52.43,0:16:55.50,Main,Orhun,0,0,0,,If new recruits who wouldn't \Nbe able to beat a floor boss
+Dialogue: 0,0:16:55.50,0:16:57.97,Main,Orhun,0,0,0,,on their own can go exploring \Nin the deeper floors,
+Dialogue: 0,0:16:57.97,0:17:00.79,Main,Orhun,0,0,0,,it'll strengthen the clan as a whole.
+Dialogue: 0,0:17:03.12,0:17:07.12,Italics,Selma,0,0,0,,He realized just from the few things I said?
+Dialogue: 0,0:17:07.12,0:17:09.80,Italics,Selma,0,0,0,,He's smarter than I thought.
+Dialogue: 0,0:17:10.42,0:17:13.95,Main,Selma,0,0,0,,In the dungeons, you need to \Ndefeat the floor bosses that
+Dialogue: 0,0:17:13.95,0:17:16.32,Main,Selma,0,0,0,,appear every ten floors to go any deeper.
+Dialogue: 0,0:17:16.32,0:17:19.56,Main,Selma,0,0,0,,It's common for new recruits to be \Ninjured or killed during these battles.
+Dialogue: 0,0:17:19.90,0:17:23.44,Main,Selma,0,0,0,,But if a veteran adventurer \Ncan take the the boss down,
+Dialogue: 0,0:17:23.44,0:17:29.66,Main,Selma,0,0,0,,then all they have to do is register with \Nthe crystal on the next floor to go deeper.
+Dialogue: 0,0:17:30.71,0:17:33.57,Main,Selma,0,0,0,,So we want you to go with us.
+Dialogue: 0,0:17:34.06,0:17:39.13,Main,Orhun,0,0,0,,This seems like a really important \Nmission for the Silver Rabbits.
+Dialogue: 0,0:17:39.13,0:17:40.83,Main,Orhun,0,0,0,,Is it okay for an outsider \Nlike me to be there?
+Dialogue: 0,0:17:41.18,0:17:42.23,Main,Selma,0,0,0,,Orhun.
+Dialogue: 0,0:17:43.98,0:17:47.08,Main,Selma,0,0,0,,I respect you.
+Dialogue: 0,0:17:48.88,0:17:52.85,Italics,Orhun,0,0,0,,Selma respects me as an enchanter?
+Dialogue: 0,0:17:53.61,0:17:57.13,Italics,Orhun,0,0,0,,To be honest, that makes me \Nhappy, but why would she?
+Dialogue: 0,0:17:58.01,0:18:02.12,Italics,Orhun,0,0,0,,I was banished from the \NHero's Party for being too weak.
+Dialogue: 0,0:18:02.64,0:18:07.64,Italics,Orhun,0,0,0,,Because my magic was worse \Nthan hers during the raid.
+Dialogue: 0,0:18:08.47,0:18:11.43,Italics,Orhun,0,0,0,,And I have to go back to being an enchanter?
+Dialogue: 0,0:18:11.43,0:18:13.80,Italics,Orhun,0,0,0,,After what just happened to me?
+Dialogue: 0,0:18:13.80,0:18:15.65,Italics,Orhun,0,0,0,,Of course I'll regret it.
+Dialogue: 0,0:18:17.46,0:18:23.12,Main,Orhun,0,0,0,,I'm happy you think so highly of me, \Nbut I have other plans.
+Dialogue: 0,0:18:23.28,0:18:24.23,Main,Selma,0,0,0,,Orhun...
+Dialogue: 0,0:18:24.23,0:18:30.50,Main,Sophia,0,0,0,,U-Um, Orhun... I'm going too.
+Dialogue: 0,0:18:30.88,0:18:34.50,Main,Sophia,0,0,0,,So it would make me really \Nhappy if you went with me!
+Dialogue: 0,0:18:34.80,0:18:37.01,Main,Sophia,0,0,0,,Please... please!
+Dialogue: 0,0:18:39.67,0:18:42.26,Main,Sophia,0,0,0,,Are you busy...?
+Dialogue: 0,0:18:44.56,0:18:46.77,Main,Orhun,0,0,0,,Let me think about it.
+Dialogue: 0,0:18:47.73,0:18:48.93,Main,Sophia,0,0,0,,Orhun.
+Dialogue: 0,0:18:49.73,0:18:51.48,Main,Selma,0,0,0,,Okay, got it.
+Dialogue: 0,0:18:51.92,0:18:57.00,Main,Orhun,0,0,0,,Just to be clear, I've converted \Nto being a swordsman.
+Dialogue: 0,0:18:57.00,0:18:58.11,Main,Selma,0,0,0,,A swordsman?
+Dialogue: 0,0:18:58.32,0:18:59.37,Main,Orhun,0,0,0,,Yes.
+Dialogue: 0,0:18:59.74,0:19:02.69,Main,Orhun,0,0,0,,It seems you respect me as an enchanter.
+Dialogue: 0,0:19:02.69,0:19:06.62,Main,Orhun,0,0,0,,But if I'm going, it will be as a swordsman.
+Dialogue: 0,0:19:06.62,0:19:08.62,Main,Selma,0,0,0,,Why did you do that?
+Dialogue: 0,0:19:09.01,0:19:11.01,Italics,Orhun,0,0,0,,Of course she's surprised.
+Dialogue: 0,0:19:11.01,0:19:13.63,Italics,Orhun,0,0,0,,But this is something I won't give up.
+Dialogue: 0,0:19:14.62,0:19:17.13,Main,Selma,0,0,0,,Okay, that's fine.
+Dialogue: 0,0:19:17.82,0:19:19.08,Italics,Selma,0,0,0,,It doesn't matter.
+Dialogue: 0,0:19:19.08,0:19:22.70,Italics,Selma,0,0,0,,If things get bad, he'll go back \Nto his main job of enchanter.
+Dialogue: 0,0:19:24.28,0:19:29.39,Main,Selma,0,0,0,,If you're coming, please be at the \NSilver Rabbit HQ tomorrow morning.
+Dialogue: 0,0:19:30.00,0:19:31.18,Main,Orhun,0,0,0,,All right.
+Dialogue: 0,0:19:35.31,0:19:36.90,Main,Orhun,0,0,0,,Good evening.
+Dialogue: 0,0:19:36.90,0:19:38.91,Main,Storekeeper,0,0,0,,Oh, Orhun?
+Dialogue: 0,0:19:38.91,0:19:39.90,Main,Orhun,0,0,0,,Are you still open?
+Dialogue: 0,0:19:40.28,0:19:42.88,Main,Storekeeper,0,0,0,,I was about to close up.
+Dialogue: 0,0:19:42.88,0:19:44.91,Main,Storekeeper,0,0,0,,But take your time.
+Dialogue: 0,0:19:50.77,0:19:53.17,Main,Storekeeper,0,0,0,,Today was another busy day.
+Dialogue: 0,0:19:53.56,0:19:55.42,Main,Orhun,0,0,0,,Glad you're doing well.
+Dialogue: 0,0:19:55.42,0:19:59.67,Main,Storekeeper,0,0,0,,Thanks to you advertising the store \Nafter you became a top adventurer.
+Dialogue: 0,0:20:00.79,0:20:04.13,Main,Storekeeper,0,0,0,,I really am grateful.
+Dialogue: 0,0:20:04.13,0:20:06.93,Main,Orhun,0,0,0,,Old man, sorry.
+Dialogue: 0,0:20:07.27,0:20:08.42,Main,Storekeeper,0,0,0,,Orhun?
+Dialogue: 0,0:20:08.42,0:20:12.83,Main,Orhun,0,0,0,,I'm not a member of the Hero's Party anymore.
+Dialogue: 0,0:20:13.37,0:20:16.44,Main,Orhun,0,0,0,,I won't be able to advertise\Nfor you any longer.
+Dialogue: 0,0:20:16.98,0:20:20.34,Main,Orhun,0,0,0,,Now that I'm not a hero, \Nnobody will listen to a thing I say.
+Dialogue: 0,0:20:21.19,0:20:24.26,Main,Storekeeper,0,0,0,,I'm grateful to you.
+Dialogue: 0,0:20:24.26,0:20:26.45,Main,Storekeeper,0,0,0,,I always have been, and I always will be.
+Dialogue: 0,0:20:26.45,0:20:30.83,Main,Storekeeper,0,0,0,,You're still you, \Nwhether you're a hero or not.
+Dialogue: 0,0:20:30.83,0:20:35.58,Main,Storekeeper,0,0,0,,So let me say it again... thank you.
+Dialogue: 0,0:20:36.12,0:20:39.34,Main,Orhun,0,0,0,,You'd thank me... someone like me?
+Dialogue: 0,0:20:39.34,0:20:41.45,Main,Storekeeper,0,0,0,,Is that strange?
+Dialogue: 0,0:20:41.45,0:20:47.60,Main,Storekeeper,0,0,0,,I know what you've done, how hard \Nyou've worked, better than anyone.
+Dialogue: 0,0:20:47.89,0:20:51.04,Main,Storekeeper,0,0,0,,So I know that from here on out,
+Dialogue: 0,0:20:51.04,0:20:56.23,Main,Storekeeper,0,0,0,,you'll be hearing even more "thank yous."
+Dialogue: 0,0:20:56.66,0:21:00.86,Main,Storekeeper,0,0,0,,These words mean that there are \Npeople out there who need you.
+Dialogue: 0,0:21:01.40,0:21:04.48,Main,Storekeeper,0,0,0,,Treasure those words \Nevery time you hear them.
+Dialogue: 0,0:21:04.48,0:21:05.68,Main,Orhun,0,0,0,,Old man...
+Dialogue: 0,0:21:05.68,0:21:08.12,Main,Storekeeper,0,0,0,,Things are just getting started, Orhun.
+Dialogue: 0,0:21:08.12,0:21:12.12,Main,Storekeeper,0,0,0,,Just do as you think best.
+Dialogue: 0,0:21:12.60,0:21:16.88,Main,Storekeeper,0,0,0,,Live for yourself. Help others.
+Dialogue: 0,0:21:17.14,0:21:20.80,Main,Storekeeper,0,0,0,,Whatever happens, I'm on your side.
+Dialogue: 0,0:21:21.29,0:21:23.66,Main,Orhun,0,0,0,,Thank you, old man...
+Dialogue: 0,0:21:40.32,0:21:42.78,Sign_Basic,Title,0,0,0,,{\an8}JACK-OF-ALL-TRADES, PARTY OF NONE
+Dialogue: 0,0:23:08.45,0:23:10.83,Main,Orhun,0,0,0,,Good morning, Selma.
+Dialogue: 0,0:23:11.81,0:23:13.08,Main,Selma,0,0,0,,You came, huh?
+Dialogue: 0,0:23:14.00,0:23:15.28,Main,Selma,0,0,0,,Follow me.
+Dialogue: 0,0:23:24.43,0:23:27.29,Main,Selma,0,0,0,,You look livelier than you did yesterday.
+Dialogue: 0,0:23:27.29,0:23:30.47,Main,Selma,0,0,0,,I guess you feel relieved to \Nbe out of the Hero's Party.
+Dialogue: 0,0:23:30.93,0:23:33.64,Main,Orhun,0,0,0,,Yes, something like that.
